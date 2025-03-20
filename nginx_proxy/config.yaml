@@ -30,6 +30,7 @@ options:
 ports:
   443/tcp: 443
   10000/tcp: 10000
+  8443/tcp: 8443
 schema:
   domain: str
   hsts: str
